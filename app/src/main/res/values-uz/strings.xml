@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChsbProject</string>
+    <string name="_60_20">$ 60.20</string>
+    <string name="subtotal">Summa:</string>
+    <string name="delivery">Yetkazib berish:</string>
+    <string name="total_cost">Barcha summa: </string>
+    <string name="your_cart_is_empty">Sizning savatingiz bosh</string>
+    <string name="nike_shoes">Oyoq kiyimlar</string>
+    <string name="bestseller">Top sotiladigan</string>
+    <string name="favourites">Sevimlilar</string>
+    <string name="looking">Nomini qidiring</string>
+    <string name="no_fav_sneakers">Sevimli oyoq kiyim yoq</string>
+    <string name="choose">Tilni tanlang</string>
+    <string name="my_cart">Mening savatcham</string>
+    <string name="item">ta oyoq kiyim</string>
+</resources>
